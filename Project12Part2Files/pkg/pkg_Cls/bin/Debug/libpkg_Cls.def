@@ -1,0 +1,4 @@
+EXPORTS
+    DllMain @1
+    Java_pkg_Cls_f__DLjava_lang_String_2 @2
+    Java_pkg_Cls_f__ILjava_lang_String_2 @3

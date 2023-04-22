@@ -1,0 +1,17 @@
+ 
+  ----jGRASP exec: java pkg.Cls
+ Hello test double
+ native method returned 10.0
+ Hello test integer
+ native method returned 5
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java pkg.Cls
+ Hello Fruzzetti
+ native method returned 10.0
+ Hello Fruzzetti
+ native method returned 5
+ 
+  ----jGRASP: operation complete.
+ 
